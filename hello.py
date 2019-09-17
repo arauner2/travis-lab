@@ -1,1 +1,3 @@
-print("Hello world!")
+string = "World"
+
+print("Hello %s!" % string)
