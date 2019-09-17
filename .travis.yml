@@ -6,4 +6,6 @@ python:
 
 script:
 
+    pip install pytest
     python hello.py
+    pytest
